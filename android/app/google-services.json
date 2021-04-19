@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558410657884",
+    "project_id": "donation-app-54718",
+    "storage_bucket": "donation-app-54718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558410657884:android:e7359a66c466166df53699",
+        "android_client_info": {
+          "package_name": "com.example.venezuela_donation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558410657884-10adr5s0ouo2a3tk9lm978je67foo9me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxaN_2QcP6DX5lU0sb6S_vgi3s4OVmZGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558410657884-10adr5s0ouo2a3tk9lm978je67foo9me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
